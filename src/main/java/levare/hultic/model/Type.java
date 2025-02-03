@@ -1,0 +1,32 @@
+package levare.hultic.model;
+
+public enum Type {
+    BODH,
+    PUMP,
+    INTAKE,
+    SEPARATOR,
+    SEAL,
+    MOTOR,
+    UMB,
+    SENSOR,
+    CABLE,
+    MLE,
+    CONSUMABLES,
+    YTOOL,
+    TRANSFORMER,
+    VSD,
+    FSD,
+    VAPRO,
+    FILTER,
+    CAPILLARYTUBE,
+    CCCP,
+    CLAMPMLE,
+    SHROUD,
+    CENTRALIZER,
+    COUPLING,
+    PENETRATOR,
+    ADAPTER,
+    SCADA,
+    PACKING,
+    SKID
+}
